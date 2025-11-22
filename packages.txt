@@ -1,0 +1,9 @@
+# FRONTEND
+
+
+# BACKEND
+
+
+
+# ShadCN 
+pnpm dlx shadcn@latest add https://tweakcn.com/r/themes/cmiahmdu0000m04l51ouz1377
